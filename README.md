@@ -1,2 +1,2 @@
 # University_Api
-Indian States API
+Indian States Basis Universioy API
